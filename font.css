@@ -11,14 +11,18 @@
       background:rgb(179, 216, 218);
     }
     
-      div > h1:first-of-type{
+      .first{
        font-family: my36;
-       background: rgb(180, 138, 138);
+       /* background: rgb(180, 138, 138); */
     }
     h1{
         font-family: mypencil;
-        background-color: rgb(186, 228, 214);
+        /* background-color: rgb(186, 228, 214); */
    }
+   /* .welcome{
+    background: red;
+        font-family: mypencil;
+   } */
    .container{
       background: rgba(228, 215, 215, 0.281);
    }

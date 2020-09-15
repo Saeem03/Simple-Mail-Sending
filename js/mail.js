@@ -23,5 +23,4 @@ function send(){
         }); 
     }
     sendEmail(); 
-    alert('ko');
     } 

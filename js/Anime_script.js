@@ -48,7 +48,7 @@ class Circle {
     }
 }
 var circleArray = [];
-var circleNumbers = 120;
+var circleNumbers = 220;
 var mouse = {
     x: undefined,
     y: undefined
